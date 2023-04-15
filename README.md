@@ -4,22 +4,24 @@
 
 Developer Portfolio is a web template made for developers to present themselves based on NextJS.
 
-![Developer Protfolio](https://user-images.githubusercontent.com/32510139/196662875-44970df4-d748-4a76-8a5f-ec2f4f0eb0e9.png)
+![Developer Protfolio]()
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Tech Stack](#tech-stack)
-- [Quick Start](#quick-start)
-- [Run Locally](#run-locally)
-- [Deployment](#deployment)
-- [File Structure](#file-structure)
-- [Author](#author)
-- [License](#license)
+- [Developer Portfolio](#developer-portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Tech Stack](#tech-stack)
+  - [Quick start](#quick-start)
+  - [Run Locally](#run-locally)
+  - [Deployment](#deployment)
+  - [File Structure](#file-structure)
+  - [Author](#author)
+  - [License](#license)
 
 ## Demo
 
-[Developer Portfolio demo link](https://developer-portfolio-gules.vercel.app/)
+[Developer Portfolio demo link]()
 
 ## Tech Stack
 
@@ -30,13 +32,13 @@ Developer Portfolio is a web template made for developers to present themselves 
 Clone the repo
 
 ```bash
-  git clone https://github.com/blaiti/Developer-Portfolio.git
+  git clone https://github.com/frontendDieferson/dieferson.git
 ```
 
 Install Developer Portfolio with npm
 
 ```bash
-  cd Developer-Portfolio
+  cd dieferson
   npm install
 ```
 
@@ -61,7 +63,7 @@ To create a production build
 Within the download you'll find the following directories and files:
 
 ```bash
-Developer-Portfolio
+Dieferson
 .
 ├── package.json
 ├── package_lock.json
@@ -88,21 +90,15 @@ Developer-Portfolio
 │   │   ├── phone.svg
 │   │   └── youtube.svg
 │   └── images
-│       ├── blaiti.png
-│       └── partners
-│           ├── artisty.png
-│           ├── directy.png
-│           ├── khedma-lik.png
-│           ├── wallety.png
-│           └── telefy.png
+│       ├── dieferson.png
 └── styles
     └── global.css
 ```
 
 ## Author
 
-[@blaiti](https://github.com/blaiti)
+[@Dieferson](https://github.com/frontendDieferson)
 
 ## License
 
-[MIT](https://github.com/blaiti/Chaty/blob/main/LICENSE)
+[MIT](https://github.com/frontendDieferson/Chaty/blob/main/LICENSE)
